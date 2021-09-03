@@ -1,0 +1,1 @@
+sudo pfctl -ef pf.conf
